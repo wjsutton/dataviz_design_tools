@@ -17,6 +17,15 @@ Quick Link
 [GitHub]:https://github.com/wjsutton
 [Website]:https://wjsutton.github.io/
 
+### General
+
+- [General Design Resources](https://designresourc.es/)
+
+### Storytelling
+
+- [Going from Idea to Data Story](https://pudding.cool/process/pivot-continue-down/)
+- [Contextualizing Big Numbers Example (2min Video)](https://twitter.com/Public_Citizen/status/1311380433939189760?s=20)
+
 ### Gestalt Principles
 
 - [Introduction to Gestalt Principles](https://vizzendata.com/2020/07/06/utilizing-gestalt-principles-to-improve-your-data-visualization-design/)
@@ -24,7 +33,19 @@ Quick Link
 ### Colour
 
 - [Colour for Dataviz](https://blog.datawrapper.de/beautifulcolors/)
-- [Colour Blindness Checker](https://whocanuse.com/)
+- [Colour Blindness Simulator (Text & Background)](https://whocanuse.com/)
+- [Colour Blindness Simulator (Image Upload)](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+
+### Icon sets
+
+- [Flaticon](https://www.flaticon.com/)
+- [The Noun Project](https://thenounproject.com/)
+- [Mono Icons](https://icons.mono.company/)
+- [BBC GEL Icons](https://www.bbc.co.uk/gel/guidelines/iconography)
+
+### Tools
+
+- [Turn an SVG image into X & Y coordinates](https://spotify.github.io/coordinator/)
 
 ### Inspiration
 
