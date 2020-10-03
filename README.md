@@ -50,5 +50,13 @@ Quick Link
 ### Inspiration
 
 - [South China Morning Post Infographic Designs](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch)
+- [Information is Beautiful](https://informationisbeautiful.net/)
+- [Flowing Data](https://flowingdata.com/)
+- [Visualising Data](https://www.visualisingdata.com/)
+- [The Pudding](https://pudding.cool/)
+- [The Economist Graphic Detail](https://www.economist.com/graphic-detail/)
+- [Data Journalism Blog](https://datajournalism.com/)
+- [Dataviz Society Blog](https://medium.com/nightingale)
+
 
 
