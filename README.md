@@ -58,5 +58,7 @@ Quick Link
 - [Data Journalism Blog](https://datajournalism.com/)
 - [Dataviz Society Blog](https://medium.com/nightingale)
 
+### Guidance 
 
+- [Presenting Sensitive Topics](https://www.tableaufit.com/data-ethics-dashboards-and-presenting-death/)
 
