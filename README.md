@@ -32,7 +32,9 @@ Quick Link
 
 ### Colour
 
-- [Colour for Dataviz](https://blog.datawrapper.de/beautifulcolors/)
+- [Colour for Dataviz (Article)](https://blog.datawrapper.de/beautifulcolors/)
+- [Adobe Colour Wheel & Image Upload](https://color.adobe.com/create/color-wheel)
+- [Colour Palette Inspiration](https://colorhunt.co/)
 - [Colour Blindness Simulator (Text & Background)](https://whocanuse.com/)
 - [Colour Blindness Simulator (Image Upload)](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
