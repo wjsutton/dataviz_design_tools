@@ -48,6 +48,7 @@ Quick Link
 ### Tools
 
 - [Turn an SVG image into X & Y coordinates](https://spotify.github.io/coordinator/)
+- [Generate Hexmaps for any country](https://pixelmap.amcharts.com/)
 
 ### Inspiration
 
