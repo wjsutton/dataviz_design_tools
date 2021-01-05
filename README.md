@@ -49,7 +49,11 @@ Quick Link
 ### Tools
 
 - [Turn an SVG image into X & Y coordinates](https://spotify.github.io/coordinator/)
+- [Create SVG animations](https://svgartista.net/)
+- [Online Photoshop clone](https://www.photopea.com/)
 - [Generate Hexmaps for any country](https://pixelmap.amcharts.com/)
+- [Remove background from videos](https://www.unscreen.com/)
+- [Font creater](https://www.fontself.com/)
 
 ### Templates
 
