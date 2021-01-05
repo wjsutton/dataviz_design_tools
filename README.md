@@ -41,6 +41,7 @@ Quick Link
 ### Icon sets
 
 - [Flaticon](https://www.flaticon.com/)
+- [Shape.so](https://shape.so/browse)
 - [The Noun Project](https://thenounproject.com/)
 - [Mono Icons](https://icons.mono.company/)
 - [BBC GEL Icons](https://www.bbc.co.uk/gel/guidelines/iconography)
@@ -49,6 +50,10 @@ Quick Link
 
 - [Turn an SVG image into X & Y coordinates](https://spotify.github.io/coordinator/)
 - [Generate Hexmaps for any country](https://pixelmap.amcharts.com/)
+
+### Templates
+
+- [Really Good Emails](https://reallygoodemails.com/)
 
 ### Inspiration
 
