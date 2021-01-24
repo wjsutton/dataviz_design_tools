@@ -77,4 +77,4 @@ Quick Link
 ### Guidance 
 
 - [Presenting Sensitive Topics](https://www.tableaufit.com/data-ethics-dashboards-and-presenting-death/)
-
+-[Ethical Design Guide](https://ethicaldesign.guide)
