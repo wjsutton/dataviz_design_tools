@@ -38,6 +38,10 @@ Quick Link
 - [Colour Blindness Simulator (Text & Background)](https://whocanuse.com/)
 - [Colour Blindness Simulator (Image Upload)](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 
+### Fonts
+
+- [Font Generator](https://www.fontgeneratoronline.com)
+
 ### Icon sets
 
 - [Flaticon](https://www.flaticon.com/)
